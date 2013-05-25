@@ -1,0 +1,41 @@
+The Explotech. Fusemancer. idfk?
+
+Background: The explotech inherited a magical backpack that dispenses unlimited dynamite. The explotech infuses the tnt with elements to suit his needs. The backpack does have limits in how much explosives can be used at once but by charging it with mana it can be revitalised.
+
+
+
+Charge Bar
+--------------
+
+Explosives Dispenser: 5 charges = 125% grenade damage ----> 0 charges = 50% grenade damage (-15 per charge)
+	The purpose of this is to create a play pattern of using damage spells at higher charges and cc spells at lower charges.
+	Also gives incentive to Refuel to get back damage modifier
+
+Refuel: High mana cost. Recharges backpack completely. 8? sec cd(needs gameplay testing)
+	- Also does something else for cool factor
+
+
+
+Grenades
+-------------
+They are main theme for this charater. When to use them should be dictated by charge and situation. All grenades have a 6? sec cd, and a small knockback at impact site. 
+
+
+Inferno grenade: moderate AoE. moderate fire damage nuke. moderate  fire damage dot. short duration
+
+Clusterflux: small AoE. High fire damage nuke.
+
+Nightmare grenade: large AoE. Moderate poison damage dot. Spawns spiderlings. moderate duration. if used at full charge fears also.
+
+Frost Grenade: large AoE slow. low frost damage nuke. if used at full charge freezes as well as slow. moderate duration slow/short duration freeze
+
+Static grenade: large AoE. moderate shock damage AoE. added effect?
+
+
+
+
+
+
+
+
+
