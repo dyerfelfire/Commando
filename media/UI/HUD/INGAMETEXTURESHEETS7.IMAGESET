@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IngameTextureSheets7" Imagefile="media/ui/hud/ingametexturesheets7.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_charge_test_frame" XPos="773" YPos="830" Width="244" Height="69" />
+	<Image Name="ig_charge_commando_frame" XPos="773" YPos="901" Width="244" Height="69" />
+</Imageset>
