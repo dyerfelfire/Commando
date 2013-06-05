@@ -1,0 +1,1 @@
+This is a custom class for the game Torchlight 2. It is currently a work and progress. When complete, it will feature The Commando, a playable character that uses deadly explosives to obliterate his foes. The Commando will feature new skills and abilities, a completely unique skill tree and chargebar, and a fresh experience to replay the wonders of Torchlight 2.
